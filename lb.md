@@ -31,6 +31,12 @@ https://aws.amazon.com/blogs/networking-and-content-delivery/application-load-ba
 
 ![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/25d21af0-8006-4076-b46d-74d1d4d3b42c)
 
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/16bac966-179b-4824-808b-a8ba01737fdf)
+
+https://aws.amazon.com/blogs/containers/how-to-use-multiple-load-balancer-target-group-support-for-amazon-ecs-to-access-internal-and-external-service-endpoint-using-the-same-dns-name/
+
+https://shailender-choudhary.medium.com/aws-alb-advanced-request-routing-315d26682ded
+
 
 
 
