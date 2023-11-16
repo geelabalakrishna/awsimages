@@ -58,6 +58,9 @@ https://akomljen.com/aws-alb-ingress-controller-for-kubernetes/
 ![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/d5464e87-1c6c-4564-b7e5-73f9693299d5)
 https://www.scalefactory.com/blog/2021/12/13/aws-network-load-balancers-new-features/
 
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/bd5ac59d-c3d9-45ce-bbd1-a3eab45c2489)
+
+
 
 
 
