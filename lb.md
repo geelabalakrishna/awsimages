@@ -37,6 +37,9 @@ https://aws.amazon.com/blogs/containers/how-to-use-multiple-load-balancer-target
 
 https://shailender-choudhary.medium.com/aws-alb-advanced-request-routing-315d26682ded
 
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/29b33d3a-969e-4f4d-bbf3-a0f0fa634c2c)
+
+
 
 
 
