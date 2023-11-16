@@ -28,6 +28,11 @@ https://aws.amazon.com/blogs/networking-and-content-delivery/application-load-ba
 
 ![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/372843ce-2089-477d-bd94-f93f626b05b3)
 
+
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/83a2f3e7-f0c1-4885-b833-4f856dcbc2e5)
+
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/f028046e-7f48-4b6e-85dd-c0c5a66f877a)
+
 ![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/a6222839-3e17-45ad-b9e6-465a097a9b1a)
 
 ![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/ec5c6b27-5621-45fc-9e55-aabdfeef611d)
@@ -47,6 +52,11 @@ https://shailender-choudhary.medium.com/aws-alb-advanced-request-routing-315d266
 https://akomljen.com/aws-alb-ingress-controller-for-kubernetes/
 
 ![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/1d7e19a9-d5b4-4672-ba14-a2716a2213ac)
+
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/67ed25f4-528b-454e-a8ce-27f55912279f)
+
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/d5464e87-1c6c-4564-b7e5-73f9693299d5)
+https://www.scalefactory.com/blog/2021/12/13/aws-network-load-balancers-new-features/
 
 
 
