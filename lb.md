@@ -46,6 +46,9 @@ https://shailender-choudhary.medium.com/aws-alb-advanced-request-routing-315d266
 
 https://akomljen.com/aws-alb-ingress-controller-for-kubernetes/
 
+![image](https://github.com/geelabalakrishna/awsimages/assets/70707659/1d7e19a9-d5b4-4672-ba14-a2716a2213ac)
+
+
 
 
 
